@@ -1,5 +1,9 @@
 # Throttler
 
+## The only reason for this fork is to have up to date core.async references.
+The references to core.async in the original thorttler library are so old, that they
+fuck up the pink-gorilla notebook.
+
 Throttle the throughput of function calls and `core.async` channels.
 
 Uses the [token bucket algorithm][token] to control both the overall rate as

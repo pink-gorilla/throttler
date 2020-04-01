@@ -19,3 +19,7 @@ lib
 pom.xml
 pom.xml.asc
 /etc/
+.classpath
+.project
+.settings/*
+
